@@ -9,6 +9,7 @@ print("{:.0f}º Celsius == {:.1f}º Fahrenheit.".format(celsius, fahrenheit))
 
 '''
 Formula de conversao: T(°C) = (T(°F) - 32) × 5/9
+T(°F) = (T(°C) × 5/9) + 32
 https://www.rapidtables.com/convert/temperature/fahrenheit-to-celsius.html
 
 {:...} -> Format Specification Mini-Language
